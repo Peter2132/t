@@ -1,0 +1,18 @@
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\bin\Debug\WpfApp4 Ezednevnik.exe.config
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\bin\Debug\WpfApp4 Ezednevnik.exe
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\bin\Debug\WpfApp4 Ezednevnik.pdb
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\obj\Debug\WpfApp4 Ezednevnik.csproj.AssemblyReference.cache
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\obj\Debug\MainWindow.g.cs
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\obj\Debug\App.g.cs
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\obj\Debug\WpfApp4 Ezednevnik_MarkupCompile.cache
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\obj\Debug\WpfApp4 Ezednevnik_MarkupCompile.lref
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\obj\Debug\MainWindow.baml
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\obj\Debug\WpfApp4 Ezednevnik.g.resources
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\obj\Debug\WpfApp4_Ezednevnik.Properties.Resources.resources
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\obj\Debug\WpfApp4 Ezednevnik.csproj.GenerateResource.cache
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\obj\Debug\WpfApp4 Ezednevnik.csproj.CoreCompileInputs.cache
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\obj\Debug\WpfApp4 Ezednevnik.exe
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\obj\Debug\WpfApp4 Ezednevnik.pdb
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\bin\Debug\Newtonsoft.Json.dll
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\bin\Debug\Newtonsoft.Json.xml
+D:\WpfApp4 Ezednevnik\WpfApp4 Ezednevnik\obj\Debug\WpfApp4 Ezednevnik.csproj.CopyComplete
